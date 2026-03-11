@@ -1,5 +1,5 @@
-# Lumi30-Public-Record
-Primary entry point: [Lumi30-Index](https://github.com/gsx750ss-dev/Lumi30-Index)
+﻿# Lumi30-Public-Record
+Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
 This repository maintains integrity hashes (SHA256) for the Core Canon PDFs of LUMINA-30 only.
 
@@ -39,3 +39,4 @@ The following documents constitute the Core Canon and are hash-fixed:
 Integrity Scope:
 Only the six Core Canon documents above are subject to hash fixation.
 All other PDFs within the broader LUMINA-30 structure are maintained as adaptive reference materials.
+
